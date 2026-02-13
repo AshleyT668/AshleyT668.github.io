@@ -3,12 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 layout: page
-Title: About
+title: About
 ---
 
 ## Hello, I am Ashley Adhiambo
 I am a **Data and AI** Enthusiast/Student with focus on Data Analytics
-###Technical Focus
+### Technical Focus
 **Data Analysis:** Power BI and Tableau
 **AI:**NLP AND ML
 ### Current Projects
