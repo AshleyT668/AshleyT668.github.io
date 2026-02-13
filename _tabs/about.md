@@ -2,7 +2,16 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+layout: Page
+Title: About
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Hello, I am Ashley Adhiambo
+I am a **Data and AI** Enthusiast/Student with focus on Data Analytics
+###Technical Focus
+**Data Analysis:** Powe BI nad Tableau
+**AI:**NLP AND ML
+### Current Projects
+**My Projects** Lab Building.
+
+
