@@ -10,7 +10,7 @@ image:
 ---
 ## Why I built this Lab
 To truly understand **Network Security**, I decided to move away from local VMs and deploy a dedicated environment on **GCP**
-![Desktop View](/assets/aws-azure-gcp)
+![Desktop View](/assets/aws_azure_gcp)
 _This is the caption that appears centered under the image_
 
 ### The Architecture
