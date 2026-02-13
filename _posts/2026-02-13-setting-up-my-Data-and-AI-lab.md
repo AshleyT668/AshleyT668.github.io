@@ -4,7 +4,7 @@ date: 2026-02-13 10:07:00 +0300
 categories: [Cloud, Lab-Setup, Azure, AWS, GCP]
 tags: [ubuntu, nginx, gcp,aws, azure]
 image:
-  path: assets/aws-azure-gcp.jpg
+  path: assets/aws_azure_gcp.jpg
   alt: A feature image for awsazuregcp
 
 ---
