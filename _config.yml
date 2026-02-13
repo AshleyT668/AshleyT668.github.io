@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone:Nairobi/Kenya
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Ashley Adhiambo # the main title
 
-tagline: Let's get moving! # it will display as the subtitle
+tagline: Documenting the Journey through Data and AI! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A technical portfolio and blog focused on Data and AI.
