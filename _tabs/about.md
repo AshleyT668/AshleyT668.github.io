@@ -69,7 +69,7 @@ ICT Authority, Kenya
 
 ---
 
-### Certifications & Achievements
+### Certifications
 
 - Cisco IT Essentials  
 - Cisco Introduction to Cybersecurity  
@@ -81,9 +81,7 @@ ICT Authority, Kenya
 - Cybersecurity and Emerging Technologies Awareness Training – ICT Authority  
 - Information Security Standard Certification – ICT Authority  
 - Systems and Applications Standard Certification – ICT Authority  
-- Data Protection Training Certification – CapaBuil  
-- Dean’s List Award 2023 – Strathmore University  
-- Tigoni Students’ Leadership Getaway Award – Strathmore University  
+- Data Protection Training Certification – CapaBuil
 
 ---
 
