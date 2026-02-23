@@ -1,3 +1,10 @@
+---
+icon: fas fa-info-circle
+order: 4
+layout: page
+title: Lab Challenges
+---
+
 ## Lab Challenge: Web Scraping with Python
 
 ### Problem Statement
