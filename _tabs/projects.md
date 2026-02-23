@@ -1,3 +1,9 @@
+---
+layout: archives
+icon: fas fa-archive
+order: 3
+---
+
 ## Recent Personal Projects
 
 **Rafiki Assist – AI-Powered Assistive Mobile App for Autism**  
