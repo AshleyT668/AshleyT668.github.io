@@ -1,7 +1,9 @@
 ---
-layout: archives
-icon: fas fa-archive
-order: 3
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+layout: page
+title: Projects
 ---
 
 ## Recent Personal Projects
