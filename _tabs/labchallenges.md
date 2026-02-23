@@ -82,9 +82,9 @@ This lab reinforced the importance of systematic data discovery before cleaning 
 
 ---
 
-## 🧪 Lab Challenge: Exploratory Data Analysis (EDA) with Kaggle Dataset
+## Lab Challenge: Exploratory Data Analysis (EDA) with Kaggle Dataset
 
-### 📌 Problem Statement
+### Problem Statement
 
 The objective of this lab challenge was to gain hands-on experience performing Exploratory Data Analysis (EDA) using a real-world dataset hosted on Kaggle and to publish the completed analysis on the Kaggle platform. The assignment focused on systematically exploring, understanding, and interpreting the dataset through statistical summaries and visual analysis in order to uncover patterns, relationships, and insights that could inform further modeling or decision-making.
 
@@ -93,7 +93,7 @@ https://www.kaggle.com/code/mariyamalshatta/masterclass-1-a-comprehensive-guide-
 
 ---
 
-### 🧠 Approach
+### Approach
 
 The analysis began with initial data exploration to understand the overall structure of the dataset. This included examining the dataset’s shape, column names, data types, unique values, missing data, and duplicate records using core pandas functions. Summary statistics were generated to assess distributions and identify potential data quality issues.
 
@@ -109,7 +109,7 @@ Finally, the target variable was analyzed in detail by examining its distributio
 
 ---
 
-### 🛠️ Tools Used
+### Tools Used
 
 - **Python** for data exploration and analysis  
 - **Kaggle Notebooks** as the analysis and publishing environment  
@@ -119,6 +119,6 @@ Finally, the target variable was analyzed in detail by examining its distributio
 
 ---
 
-### 🎓 Key Lessons Learned
+### Key Lessons Learned
 
 This lab strengthened understanding of the full Exploratory Data Analysis workflow, from initial inspection to advanced multivariate exploration. It emphasized the importance of asking meaningful questions before visualizing data and selecting analysis techniques that align with the problem context. The exercise also highlighted the value of visual analytics in uncovering patterns, interactions, and data quality issues that are not immediately apparent from raw data alone. Overall, the assignment improved analytical thinking and practical EDA skills essential for data-driven projects.
