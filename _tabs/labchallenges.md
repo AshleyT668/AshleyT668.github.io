@@ -79,3 +79,46 @@ Finally, the cleaned and validated dataset was exported as a CSV file and prepar
 ### Key Lessons Learned
 
 This lab reinforced the importance of systematic data discovery before cleaning and transformation. It demonstrated practical techniques for handling missing values using domain logic rather than simple deletion, as well as the value of validating datasets using real-world constraints. The assignment also strengthened proficiency in pandas for end-to-end data wrangling workflows and highlighted best practices for preparing high-quality datasets ready for analysis, visualization, and publication.
+
+---
+
+## 🧪 Lab Challenge: Exploratory Data Analysis (EDA) with Kaggle Dataset
+
+### 📌 Problem Statement
+
+The objective of this lab challenge was to gain hands-on experience performing Exploratory Data Analysis (EDA) using a real-world dataset hosted on Kaggle and to publish the completed analysis on the Kaggle platform. The assignment focused on systematically exploring, understanding, and interpreting the dataset through statistical summaries and visual analysis in order to uncover patterns, relationships, and insights that could inform further modeling or decision-making.
+
+The reference guide and dataset used for this assignment were based on the following Kaggle resource:  
+https://www.kaggle.com/code/mariyamalshatta/masterclass-1-a-comprehensive-guide-for-eda
+
+---
+
+### 🧠 Approach
+
+The analysis began with initial data exploration to understand the overall structure of the dataset. This included examining the dataset’s shape, column names, data types, unique values, missing data, and duplicate records using core pandas functions. Summary statistics were generated to assess distributions and identify potential data quality issues.
+
+Univariate analysis was then conducted to study individual features in isolation. This involved examining distributions of numerical variables such as age and fare, as well as frequency counts for categorical features such as passenger class and embarkation location. Visualizations were used to detect skewness, imbalance, and unusual patterns.
+
+Bivariate analysis focused on exploring relationships between pairs of variables that were logically connected to the target outcome. Key relationships such as fare versus passenger class, age versus survival, and embarkation point versus survival were analyzed to understand how individual factors influenced outcomes.
+
+Multivariate analysis extended this exploration by examining interactions among three or more variables simultaneously. Combined analyses were used to uncover hidden patterns and interaction effects, such as how passenger class, age, and fare jointly influenced survival rates.
+
+Outliers were identified in numerical features and evaluated based on their potential impact. Appropriate handling strategies were selected and justified for each case, balancing the need for analytical accuracy with the risk of losing meaningful real-world insights.
+
+Finally, the target variable was analyzed in detail by examining its distribution, balance, and relationships with key demographic and socioeconomic features. Combined visualizations were used to assess how multiple factors interacted to influence survival outcomes.
+
+---
+
+### 🛠️ Tools Used
+
+- **Python** for data exploration and analysis  
+- **Kaggle Notebooks** as the analysis and publishing environment  
+- **Pandas** for data inspection, summarization, and manipulation  
+- **Matplotlib and Seaborn** for data visualization  
+- **NumPy** for numerical operations and statistical support  
+
+---
+
+### 🎓 Key Lessons Learned
+
+This lab strengthened understanding of the full Exploratory Data Analysis workflow, from initial inspection to advanced multivariate exploration. It emphasized the importance of asking meaningful questions before visualizing data and selecting analysis techniques that align with the problem context. The exercise also highlighted the value of visual analytics in uncovering patterns, interactions, and data quality issues that are not immediately apparent from raw data alone. Overall, the assignment improved analytical thinking and practical EDA skills essential for data-driven projects.
