@@ -26,61 +26,96 @@ Currently, I am focused on developing AI-powered applications, exploring deep le
 
 ---
 
-## Quick Facts
+## Resume Outline
+### Academic Background
 
-- 🎓 **Education**: [Bachelor of Science] in [Informatics and Computer Science] - [Strathmore Univeristy]
-- 💼 **Current Role**: [Software Engineering Intern, TalentAris Advisory]
-- 🔬 **Specialization**: Machine Learning, Full-Stack Development, Data Analytics
-- 🏆 **Certifications**: 
-- 📍 **Location**: [Nairobi,Kenya]
-- 💻 **Languages**: Python, JavaScript, SQL, Java, R
+**Bachelor of Science in Informatics and Computer Science**  
+Strathmore University, Kenya  
+*2022 – 2026*  
+First Class Honors *(Awaiting Graduation)*  
 
----
+The program covers core areas including software engineering, data structures and algorithms, web and mobile application development, networking, cybersecurity, databases, and emerging technologies.
 
-## What I Do
-
-- **Software Development**: Building scalable web and mobile applications with modern frameworks
-- **Machine Learning**: Developing predictive models and intelligent systems using ML/DL algorithms
-- **Data Analytics**: Extracting insights from data through statistical analysis and visualization
-- **AI Solutions**: Creating AI-powered applications for automation and decision support
+**Kenya Certificate of Secondary Education (KCSE)**  
+Moi High School – Kabarak  
+*2018 – 2022*  
+Mean Grade: **A**  
+Mathematics: **A** | English: **A-**
 
 ---
 
-## Technical Expertise
+### Work Experience
 
-### Software Development
-- Full-stack web development (React, Node.js, Django, Flask)
-- RESTful API design and microservices architecture
-- Database design and optimization (SQL and NoSQL)
-- Mobile app development (React Native, Flutter)
-- DevOps and CI/CD pipelines
+**Software Engineering Intern**  
+TalentAris Advisory  
+*January 2026 – Present*  
 
-### AI & Machine Learning
-- Supervised & Unsupervised Learning
-- Deep Learning (Neural Networks, CNNs, RNNs, Transformers)
-- Natural Language Processing (NLP)
-- Computer Vision
-- Reinforcement Learning
-- Model deployment and MLOps
+- Assisting in backend development using PHP and Laravel  
+- Supporting frontend development with HTML, CSS, and JavaScript  
+- Working with MySQL and other SQL-based databases  
+- Supporting Android and iOS mobile application development  
+- Testing, debugging, documenting, and maintaining applications  
+- Participating in sprint planning, code reviews, technical discussions, and mentorship sessions  
 
-### Data Analytics
-- Data cleaning and preprocessing
-- Statistical analysis and hypothesis testing
-- Data visualization (Matplotlib, Seaborn, Tableau, Power BI)
-- Big Data technologies (Spark, Hadoop)
-- Time series analysis and forecasting
-- A/B testing and experimentation
+**Industrial Attachment (320 Hours)**  
+ICT Authority, Kenya  
+*January – March 2025*  
+
+- Supported the accreditation of ICT suppliers  
+- Prepared, updated, and maintained documentation frameworks for ICT Authority projects  
+- Assisted in preparing user requirements, automation survey reports, and technical specifications  
+- Supported Network Operations Center activities including monitoring and reporting network downtimes  
+- Assisted in NOFBI operations and geolocation mapping  
 
 ---
 
-## Interests
+### Certifications & Achievements
 
-- Artificial Intelligence & Machine Learning
-- Deep Learning & Neural Networks
-- Natural Language Processing
-- Big Data Analytics
+- Cisco IT Essentials  
+- Cisco Introduction to Cybersecurity  
+- CCNA: Introduction to Networks  
+- CCNA: Switching, Routing and Wireless Essentials  
+- CCNA: Enterprise Networking, Security and Automation  
+- HackQuest 0G (Zero Gravity) Learner Certification  
+- HackQuest 0G (Zero Gravity) Builder Certification  
+- Cybersecurity and Emerging Technologies Awareness Training – ICT Authority  
+- Information Security Standard Certification – ICT Authority  
+- Systems and Applications Standard Certification – ICT Authority  
+- Data Protection Training Certification – CapaBuil  
+- Dean’s List Award 2023 – Strathmore University  
+- Tigoni Students’ Leadership Getaway Award – Strathmore University  
 
 ---
+
+### Skills
+
+### Technical Skills
+
+**Programming Languages**  
+JavaScript, TypeScript, Python, Java, Kotlin, PHP, Solidity, HTML, CSS  
+
+**Frontend & Mobile Development**  
+React, React Native (Expo), Next.js, UI/UX Design  
+
+**Backend & Databases**  
+Node.js, Express.js, Laravel, MongoDB, RESTful APIs  
+
+**AI & Emerging Technologies**  
+Machine Learning, Natural Language Processing (NLP), AI-powered Applications, Web3, Blockchain  
+
+**Networking & Security**  
+Networking Fundamentals, Network Operations Center Monitoring, Information Security Fundamentals  
+
+**Tools & Methodologies**  
+Git & GitHub, Docker (Basic), Agile/Scrum, Slack, Trello  
+
+### Soft Skills
+
+- Problem-solving and analytical thinking  
+- Clear technical communication and documentation  
+- Team collaboration and cross-functional work  
+- Community engagement and mentorship  
+- Adaptability, continuous learning, and time management  
 
 *Feel free to explore my resume, check out my projects, read my technical writeups, or get in touch through the contact section.*
 
