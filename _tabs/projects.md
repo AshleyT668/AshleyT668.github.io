@@ -1,4 +1,4 @@
-## 🚀 Recent Personal Projects
+## Recent Personal Projects
 
 **Rafiki Assist – AI-Powered Assistive Mobile App for Autism**  
 Developed a culturally adaptive mobile system designed to support non-verbal autistic children and their caregivers. The application features a customizable text-to-speech communication module and an NLP-based caregiver chatbot, with full compatibility across Android and iOS platforms.
