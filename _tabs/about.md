@@ -34,8 +34,6 @@ Strathmore University, Kenya
 *2022 – 2026*  
 First Class Honors *(Awaiting Graduation)*  
 
-The program covers core areas including software engineering, data structures and algorithms, web and mobile application development, networking, cybersecurity, databases, and emerging technologies.
-
 **Kenya Certificate of Secondary Education (KCSE)**  
 Moi High School – Kabarak  
 *2018 – 2022*  
